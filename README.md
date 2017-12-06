@@ -22,7 +22,7 @@ Once these final two steps are performed, the distribution of tokens is complete
 
 ### Implementation
 
-We use OpenZeppelin code for `SafeMath`, `Ownable`, `Burnable` and `StandardToken` logic.
+For `SafeMath`, `Ownable`, `Burnable` and `StandardToken` logic.
 
 * `SafeMath` provides arithmetic functions that throw exceptions when integer overflow occurs
 * `Ownable` keeps track of a contract owner and permits the transfer of ownership by the current owner
