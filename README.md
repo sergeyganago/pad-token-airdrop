@@ -43,11 +43,11 @@ The token contract includes the following constants:
     name             = "PAD Token";
     symbol           = "PAD";
     decimals         = 0;
-    INITIAL_SUPPLY   = 50 trillion PAD
+    INITIAL_SUPPLY   = 100 trillion PAD
     CROWDSALE_SUPPLY = 5 trillion PAD
 ```
 
-The above constants indicate a total supply of 50 trillion pre-minted tokens. Of those, 5 trillion tokens are set aside as an allowance for crowdsale purposes.
+The above constants indicate a total supply of 100 trillion pre-minted tokens. Of those, 5 trillion tokens are set aside as an allowance for crowdsale purposes.
 
 ## PAD Crowdsale
 

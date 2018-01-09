@@ -22,9 +22,9 @@ contract PADToken is StandardToken, BurnableToken, Ownable {
     string  public constant name = "PAD Token";
     string  public constant symbol = "PAD";
     uint8   public constant decimals = 0;
-    uint256 public constant INITIAL_SUPPLY      = 50000000000000 * (10 ** uint256(decimals));
+    uint256 public constant INITIAL_SUPPLY      = 100000000000000 * (10 ** uint256(decimals));
     uint256 public constant CROWDSALE_ALLOWANCE =  5000000000000 * (10 ** uint256(decimals));
-    uint256 public constant ADMIN_ALLOWANCE     =  45000000000000 * (10 ** uint256(decimals));
+    uint256 public constant ADMIN_ALLOWANCE     =  95000000000000 * (10 ** uint256(decimals));
 
     // Properties
     uint256 public crowdSaleAllowance;      // the number of tokens available for crowdsales
