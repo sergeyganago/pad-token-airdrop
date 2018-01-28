@@ -1,4 +1,4 @@
-# PAD Token Acquisition Contract for Deployment I
+# PAD Token Airdrop
  
  ***Everything contained in this repository is in draft form and subject to change at any time and provided for information purposes only.  LaunchPAD does not guarantee the accuracy of the information contained in this repository and the information is provided “as is” with no representations or warranties, express or implied. This code is owned and copyrighted by LaunchPAD and cannot be used by anyone for any purpose.***
  
@@ -44,7 +44,7 @@ The token contract includes the following constants:
     symbol           = "PAD";
     decimals         = 0;
     INITIAL_SUPPLY   = 100 trillion PAD
-    CROWDSALE_SUPPLY = 5 trillion PAD
+    AIRDROP_SUPPLY   = 14 trillion PAD
 ```
 
 The above constants indicate a total supply of 100 trillion pre-minted tokens. Of those, 5 trillion tokens are set aside as an allowance for crowdsale purposes.
